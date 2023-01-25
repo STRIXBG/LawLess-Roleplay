@@ -1,0 +1,12 @@
+[17:29:45] >> mysql_connect(eu.db1.qgs.bg, u2353_5CDNoeNPTr, s2353_LoS_DB, ******) on port 3306
+[17:29:45] CMySQLHandler::CMySQLHandler() - constructor called.
+[17:29:45] CMySQLHandler::CMySQLHandler() - Connecting to "eu.db1.qgs.bg" | DB: "s2353_LoS_DB" | Username: "u2353_5CDNoeNPTr"
+[17:30:06] CMySQLHandler::Connect() - Can't connect to MySQL server on 'eu.db1.qgs.bg' (10060) (Error ID: 2003)
+[17:30:06] >> mysql_ping( Connection handle: 1 )
+[17:30:06] CMySQLHandler::Ping() - You cannot call this function now. (Reason: Dead Connection)
+[17:34:35] >> mysql_connect(eu.db1.qgs.bg, u2353_5CDNoeNPTr, s2353_LoS_DB, ******) on port 3306
+[17:34:35] CMySQLHandler::CMySQLHandler() - constructor called.
+[17:34:35] CMySQLHandler::CMySQLHandler() - Connecting to "eu.db1.qgs.bg" | DB: "s2353_LoS_DB" | Username: "u2353_5CDNoeNPTr"
+[17:34:57] CMySQLHandler::Connect() - Can't connect to MySQL server on 'eu.db1.qgs.bg' (10060) (Error ID: 2003)
+[17:34:57] >> mysql_ping( Connection handle: 1 )
+[17:34:57] CMySQLHandler::Ping() - You cannot call this function now. (Reason: Dead Connection)
