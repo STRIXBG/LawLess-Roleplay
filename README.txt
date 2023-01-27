@@ -1,5 +1,5 @@
 Grand Theft Auto San Andreas Multiplayer Сървър - LawLess Roleplay
-(copyright) Daniel - sTrIx
+(copyright) 2021-2023 Daniel - sTrIx
 
 За Windows:
 1. За да пуснете сървъра, натиснете samp-server.cfg
